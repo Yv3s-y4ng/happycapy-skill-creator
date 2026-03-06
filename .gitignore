@@ -49,6 +49,7 @@ Thumbs.db
 
 # Workspace (generated files)
 workspace/
+test_workspace/
 outputs/
 tmp/
 *.tmp
